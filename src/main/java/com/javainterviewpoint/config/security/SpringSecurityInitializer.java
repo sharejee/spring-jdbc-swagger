@@ -1,4 +1,4 @@
-package com.javainterviewpoint.config.core;
+package com.javainterviewpoint.config.security;
 
 import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
 
