@@ -1,7 +1,9 @@
-package com.javainterviewpoint;
+package com.javainterviewpoint.controllers;
 
 import java.util.List;
 
+import com.javainterviewpoint.models.Employee;
+import com.javainterviewpoint.repositories.impl.EmployeeDAOImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
