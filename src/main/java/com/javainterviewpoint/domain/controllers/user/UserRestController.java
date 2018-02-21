@@ -1,4 +1,4 @@
-package com.javainterviewpoint.domain.controllers.users;
+package com.javainterviewpoint.domain.controllers.user;
 
 import com.javainterviewpoint.domain.models.SecUser;
 import com.javainterviewpoint.domain.services.SecUserService;
