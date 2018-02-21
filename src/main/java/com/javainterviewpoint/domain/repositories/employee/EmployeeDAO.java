@@ -1,6 +1,6 @@
-package com.javainterviewpoint.repositories;
+package com.javainterviewpoint.domain.repositories.employee;
 
-import com.javainterviewpoint.models.Employee;
+import com.javainterviewpoint.domain.models.Employee;
 
 import java.util.List;
 public interface EmployeeDAO

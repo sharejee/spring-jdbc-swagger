@@ -1,4 +1,4 @@
-package com.javainterviewpoint.controllers;
+package com.javainterviewpoint.domain.controllers;
 
 import org.springframework.security.authentication.AnonymousAuthenticationToken;
 import org.springframework.security.core.Authentication;
