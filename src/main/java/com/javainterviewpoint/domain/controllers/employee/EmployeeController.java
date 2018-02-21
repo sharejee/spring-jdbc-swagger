@@ -1,4 +1,4 @@
-package com.javainterviewpoint.domain.controllers;
+package com.javainterviewpoint.domain.controllers.employee;
 
 import java.util.List;
 
